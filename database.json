@@ -1,0 +1,13 @@
+/**
+
+Developer: surendra 
+date : 25-sep-2019
+
+ Export to JSON plugin for PHPMyAdmin
+ */
+
+// Database 'vessel_db'
+
+// vessel_db.vessel
+
+[{"mmsi":"1","status":"process","station":"station1","speed":"336","lon":"3","lat":"3","course":"3", "heading":"3","rot":"3","timestamp":"2014-06-01 01:12:26"}, {"mmsi":"2","status":"process","station":"station1","speed":"336","lon":"3","lat":"3","course":"3", "heading":"3","rot":"3","timestamp":"2014-06-01 01:12:26"}]
